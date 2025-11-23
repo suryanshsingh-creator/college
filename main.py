@@ -1,4 +1,4 @@
-from expense_manager import ExpenseManager
+from expense_tracker import ExpenseManager
 from report_manager import ReportManager
 from storage_manager import StorageManager
 
