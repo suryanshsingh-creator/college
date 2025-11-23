@@ -1,7 +1,6 @@
 # Personal Expense Tracker (Python)
 
 A simple, modular, and beginner-friendly console-based Expense Tracker.
-Built as part of the *Build Your Own Project* evaluation.
 
 ## Features
 - Add, delete, and view expenses  
@@ -16,5 +15,5 @@ Built as part of the *Build Your Own Project* evaluation.
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone <repo-link>
+   git clone <https://github.com/suryanshsingh-creator/college>
    cd expense-tracker
