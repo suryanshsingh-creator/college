@@ -1,6 +1,6 @@
 import unittest
 from storage_manager import StorageManager
-from expense_manager import ExpenseManager
+from expense_tracker import ExpenseManager
 
 class TestExpenseTracker(unittest.TestCase):
     def test_add_expense(self):
